@@ -1,4 +1,8 @@
-[](sha256:247849d11bce5de9214090e4b11e4ffa608710a9417572fdfbda835c0a27ca77)
+<a href="https://github.com">
+  <img src="https://shields.io" alt="Download for Windows">
+</a>
+
+
 
 ### سهم | Sahm - محرك البحث الفائق للأقراص
 
