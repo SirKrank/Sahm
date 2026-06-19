@@ -1,6 +1,11 @@
-<a href="https://github.com">
-  <img src="https://shields.io" alt="Download for Windows">
-</a>
+<div align="center">
+  <kbd>
+    <a href="https://github.com" style="font-size: 36px; color: #2ea44f; font-weight: bold; text-decoration: none;">
+      🪟 Download Sahm.exe for Windows (Latest Release) 🚀
+    </a>
+  </kbd>
+</div>
+
 
 
 
